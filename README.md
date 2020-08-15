@@ -1,2 +1,2 @@
-# Budget-Book-
-Just to track your income and expenses.
+# BudgetBookbyAnushika
+You can keep your daily expense and saving report.
